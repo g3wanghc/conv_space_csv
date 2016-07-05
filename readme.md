@@ -7,7 +7,7 @@ $ chmod u+x csv_convert.sh
 ```
 Create the /data/ directory
 ```
-mkdir data
+$ mkdir data
 ```
 
 ### Usage
