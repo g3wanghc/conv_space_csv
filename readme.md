@@ -1,12 +1,17 @@
 #Converts space (2 or more) delimited files to csv format
 
-### Make the bash script executable
+### Install
+Make the bash script executable
 ```
 $ chmod u+x csv_convert.sh
 ```
+Create the /data/ directory
+```
+mkdir data
+```
 
 ### Usage
-Copy the files into the /data/ folder
+Copy the files into the data folder
 
 ```
 $ csv_convert.sh
